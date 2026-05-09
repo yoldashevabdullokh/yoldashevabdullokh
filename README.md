@@ -14,24 +14,24 @@
 <a href="https://t.me/yoldashev_abdulloh" target="_blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="telegram" height="30" width="40" />
 </a>
-
+<br />
 <a href="https://instagram.com/abdullokh_yoldashev" target="_blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="instagram" height="30" width="40" />
 </a>
-
+<br />
 <a href="https://linkedin.com/in/abdulloh-yoldashev/" target="_blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
 </a>
-
+<br />
 <a href="https://www.facebook.com/abdullohyoldashev/" target="_blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="facebook" height="30" width="40" />
 </a>
-
+<br />
 <a href="mailto:yoldashevabdulloh44@gmail.com">
 <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="email" height="30" width="40" />
 </a>
 </p>
-
+<br />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
