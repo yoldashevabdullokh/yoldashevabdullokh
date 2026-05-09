@@ -3,35 +3,42 @@
 <h3 align="center">🚀 Fullstack Developer from Uzbekistan</h3>
 
 <p align="center">
-  Men zamonaviy, kengaytiriladigan va yuqori samarali web ilovalar yarataman.
+  💎 Clean Architecture • ⚡ Performance • 🎨 Premium UI/UX
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Fullstack+Developer;React+%2F+Node.js+Developer;Modern+UI%2FUX+Designer;Clean+Architecture+Lover;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Fullstack+Developer;React+%2F+Node.js+Engineer;UI%2FUX+Perfectionist;Clean+Architecture+Builder;Always+Learning+New+Tech" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Welcome%20To%20My%20Profile&fontSize=42&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=WELCOME%20TO%20MY%20UNIVERSE&fontSize=40&fontColor=ffffff" />
 </p>
 
 ---
 
-# 💫 About Me
+# 🧠 ABOUT ME
 
-💻 Fullstack Developer
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+💻 Fullstack Developer (React + Node.js)
+
 ⚡ Premium UI/UX design lover
-🚀 Clean Architecture & Performance focused
-🎯 Scalable and maintainable systems builder
-🧠 AI tools experience
-🔥 Daily learner of new technologies
+
+🚀 Clean Architecture & scalable systems builder
+
+🎯 Performance obsessed developer
+
+🧠 AI tools & modern dev workflows user
+
+🔥 Always leveling up skills
 
 ---
 
-# 🧑‍💻 Developer Info
+# 🧑‍💻 DEVELOPER PROFILE
 
 ```js
 const abdulloh = {
@@ -40,26 +47,21 @@ const abdulloh = {
   country: "Uzbekistan",
   experience: "1+ year",
   projects: "30+",
-  focus: "Clean Architecture & Performance",
-  love: ["UI/UX", "React", "Node.js", "AI Tools"],
-  technologies: [
-    "React",
-    "Node.js",
-    "TypeScript",
-    "MongoDB",
-    "TailwindCSS"
-  ]
+  focus: "Scalable & High Performance Apps",
+  stack: ["React", "Node.js", "TypeScript", "MongoDB", "TailwindCSS"],
+  passion: ["UI/UX", "Clean Code", "AI Tools"],
+  currentlyLearning: "System Design & Advanced Backend"
 };
 ```
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 TECH STACK
 
 ## 🎨 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,tailwind,sass,bootstrap,materialui" />
+  <img src="https://skillicons.dev/icons?i=react,redux,ts,js,html,css,tailwind,sass,bootstrap,materialui" />
 </p>
 
 ## ⚙️ Backend
@@ -71,12 +73,12 @@ const abdulloh = {
 ## 🛠 Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,npm,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,npm" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GITHUB STATS
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yoldashevabdullokh&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -89,7 +91,7 @@ const abdulloh = {
 
 ---
 
-# 📈 Activity Graph
+# 📈 CONTRIBUTION GRAPH
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yoldashevabdullokh&theme=tokyo-night" />
@@ -97,7 +99,7 @@ const abdulloh = {
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 TROPHIES
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yoldashevabdullokh&theme=algolia&no-frame=true&row=1" />
@@ -105,7 +107,23 @@ const abdulloh = {
 
 ---
 
-# 🌐 Connect With Me
+# 🐍 SNAKE CONTRIBUTION
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 🎧 NOW PLAYING (SPOTIFY STYLE)
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31spotify&cover_image=true&theme=novatorem&show_offline=false" />
+</p>
+
+---
+
+# 🌐 CONNECT WITH ME
 
 <p align="center">
 
@@ -122,14 +140,14 @@ const abdulloh = {
 </a>
 
 <a href="tel:+998773835258">
-  <img src="https://img.shields.io/badge/Call-+998773835258-00C853?style=for-the-badge&logo=phone" />
+  <img src="https://img.shields.io/badge/Call-%2B998773835258-00C853?style=for-the-badge&logo=phone" />
 </a>
 
 </p>
 
 ---
 
-# 👁 Profile Views
+# 👁 PROFILE VIEWS
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yoldashevabdullokh&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -137,10 +155,10 @@ const abdulloh = {
 
 ---
 
-# ⚡ Motto
+# ⚡ MOTTO
 
 <p align="center">
-  ⭐ Code • Create • Innovate ⭐
+  ⭐ Code • Create • Innovate • Impact ⭐
 </p>
 
 ---
