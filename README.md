@@ -1,4 +1,4 @@
-# 👋 Salom, men Abdulloh
+<h1 align="center">👋 Salom, men Abdulloh</h1>
 
 <h3 align="center">🚀 O‘zbekistonlik Fullstack Dasturchi</h3>
 
